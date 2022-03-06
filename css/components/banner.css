@@ -1,0 +1,23 @@
+.banner {
+	background-image: url(../../images/maison.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	margin: 0px;
+	padding: 150px 0px;
+	line-height: 1.4;
+
+}
+
+.banner h1 {
+	font-size: 50px;
+	width: 820px;
+	font-weight: bolder;
+}
+
+.banner h2 {
+	font-size: 23px;
+	font-weight: normal;
+	width: 820px;
+
+}
